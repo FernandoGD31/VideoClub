@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+
+
+.contenedor1{
+    height: 100%;
+    background-color: #000030;
+    margin-top: 70px;
+   
+}
+
+.contenedor-pelis{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.contimg{
+   padding: 22px;
+   
+}
+
+.targeta{
+    box-shadow: 0 0 32px rgb(0 0 0 / 16%), 0 16px 16px -16px rgb(0 0 0 / 100%);
+    background-color: #1c1c1c;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    
+}
+
+.titulo{
+    padding: 10px;
+    
+    font-family: 'Work Sans', sans-serif;
+    color: #fff;
+    font-size: 60px;
+}
+
+.cont2{
+    background-color: #000000;
+}
+
+.cont3{
+    background-color: #000051;
+}
+
+.pie{
+    background-color: #311b92;
+    height: 250px;
+}
+
+.icons{
+    background-color: #311b92;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.pie .icons i{
+    border-radius: 25%;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+.pie .icons i:hover{
+    cursor: pointer;
+    color: #aaaaaa;
+    background-color: rgb(29, 29, 29);
+}
+
+.pie .icons i:active{
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+.titulopie{
+    padding: 25px;
+    text-align: center;
+    color:#fff;
+}
+
+.titulopie .tipo{
+    font-family: "Satisfy", sans-serif;
+}
+
+.btn{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 17px;
+}
+
+.btn-peli{
+    background-color:transparent;
+    color: #ec407a;
+}
+
+.btn-peli:hover{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#ec407a;
+    color: #fff;
+}
+.color{
+    color:#ec407a;
+}

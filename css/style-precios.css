@@ -110,3 +110,26 @@
     color: #ec407a;
     font-size: 40px;
 }
+
+.pagina{
+    background-color: transparent;
+    text-align: center;
+    font-size: 50px;
+    color: #ec407a;
+}
+
+.pagina label{
+    color: #fff;
+    font-size: 30px;
+   
+}
+
+.pagina i{
+    margin: 20px;
+}
+.pagina i:hover{
+    color: #fff;
+}
+.pagina i:active{
+    color: #ec407a;
+}

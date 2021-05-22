@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Work+Sans&display=swap');
 
 
 
@@ -45,15 +46,16 @@
 }
 
 .pie{
-    background-color: #311b92;
+    background-color: #000000;
     height: 250px;
 }
 
 .icons{
-    background-color: #311b92;
+    background-color: #000000;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    width: 25%;
 }
 .pie .icons i{
     border-radius: 25%;
@@ -63,7 +65,7 @@
 }
 .pie .icons i:hover{
     cursor: pointer;
-    color: #aaaaaa;
+    color: #ec407a;
     background-color: rgb(29, 29, 29);
 }
 
@@ -79,7 +81,7 @@
 }
 
 .titulopie .tipo{
-    font-family: "Satisfy", sans-serif;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .btn{
@@ -102,4 +104,9 @@
 }
 .color{
     color:#ec407a;
+}
+
+.pie .titulopie .titulo{
+    color: #ec407a;
+    font-size: 40px;
 }

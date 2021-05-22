@@ -133,3 +133,17 @@
 .pagina i:active{
     color: #ec407a;
 }
+
+.generos{
+    text-align: right;
+}
+
+.generos select{
+    color: #ec407a;
+    background-color: #000000;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    
+  
+}

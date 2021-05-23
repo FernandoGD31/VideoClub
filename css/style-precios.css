@@ -26,6 +26,7 @@
     margin-left: auto;
     margin-right: auto;
     color: #fff;
+    height: 100%;
     
 }
 
@@ -122,6 +123,7 @@
 .pagina label{
     color: #fff;
     font-size: 30px;
+    font-size: 22px;
   
    
 }
@@ -129,6 +131,7 @@
 .pagina a{
     color: white;
     text-decoration: none; 
+    font-size: 22px;
    
        
 }
@@ -138,6 +141,7 @@
 }
 .pagina i{
     margin: 20px;
+    font-size: 40px;
 }
 .pagina i:hover{
     color: #ec407a;

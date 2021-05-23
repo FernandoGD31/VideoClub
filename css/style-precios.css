@@ -94,6 +94,7 @@
 .btn-peli{
     background-color:transparent;
     color: #ec407a;
+    
 }
 
 .btn-peli:hover{
@@ -121,17 +122,28 @@
 .pagina label{
     color: #fff;
     font-size: 30px;
+  
    
 }
 
+.pagina a{
+    color: white;
+    text-decoration: none; 
+   
+       
+}
+.pagina a:hover{
+    color: #ec407a;
+
+}
 .pagina i{
     margin: 20px;
 }
 .pagina i:hover{
-    color: #fff;
+    color: #ec407a;
 }
 .pagina i:active{
-    color: #ec407a;
+    color: #000090;
 }
 
 .generos{
@@ -140,10 +152,14 @@
 
 .generos select{
     color: #ec407a;
-    background-color: #000000;
+    background-color: #000030;
     width: 200px;
     height: 30px;
     cursor: pointer;
-    
-  
+    border: 0px;
+}
+
+
+.generos option{
+    background-color: transparent;
 }
